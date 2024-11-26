@@ -5,9 +5,10 @@
 
 # Jawaban
 **Penjelasan Flowchart**
+
 Berikut adalah penjelasan lengkap dari flowchart yang Anda berikan:
 
-**1. Star t:** Menandai awal dari program.
+**1. Start:** Menandai awal dari program.
 
 **2. Tampilkan Menu Utama:** Program menampilkan menu utama kepada pengguna.
 
